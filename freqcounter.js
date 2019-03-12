@@ -1,35 +1,3 @@
-/* function addUpTo(n) {
-  let total = 0;
-  for (let i = 1; i <= n; i++) {
-    total += i;
-  }
-  return total;
-}
-
-console.log(addUpTo(6))
-*/
-
-// The operations of this function remain at n while for the summation of the function the operations remain at 3 so it becomes O(1) time
-
-/* function double (arr)  {
-  let newArr = [];
-  for (let i = 0; i < arr.length; i++) {
-      newArr.push(2*arr[i]);
-    }
-    return newArr;
-  }
-
-double(178);
-*/
-
-/* let instructor = {
-  firstName: "Kelly",
-  isInstructor: true,
-  favoriteNumbers: [1,2,3,4]
-}
-
-console.log(Object.hasOwnProperty("firstName"));
-*/
 
 //run a for each loop in both and == the characters in each array
 /* function same(arr1, arr2){
